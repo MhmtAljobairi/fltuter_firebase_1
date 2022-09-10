@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044385935716",
+    "project_id": "dotjordan2022-09",
+    "storage_bucket": "dotjordan2022-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044385935716:android:f123e2eb2959cc9e1e4a71",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044385935716-b2h459gkb5kvqpnvki2p5g7au68nqslu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKL_Z1CNK31yi_GB5t_gz8zQjK7i3Uw8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044385935716-b2h459gkb5kvqpnvki2p5g7au68nqslu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
